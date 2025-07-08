@@ -1,0 +1,22 @@
+[
+  {
+    "question": "You're feeling overwhelmed, what do you do?",
+    "option_a": "Stay in bed",
+    "option_b": "Go for a walk"
+  },
+  {
+    "question": "How do you cope with stress?",
+    "option_a": "Listen to music",
+    "option_b": "Talk to a friend"
+  },
+  {
+    "question": "What do you prefer on weekends?",
+    "option_a": "Binge TV shows",
+    "option_b": "Go hiking"
+  },
+  {
+    "question": "When anxious, you usually...",
+    "option_a": "Avoid people",
+    "option_b": "Open up to someone"
+  }
+]

@@ -1,0 +1,19 @@
+[
+    {
+      "question": "How often do you feel tired or have little energy?",
+      "type": "mental"
+    },
+    {
+      "question": "Which superhero do you relate to the most?",
+      "type": "fun"
+    },
+    {
+      "question": "How do you usually cope with stress?",
+      "type": "mental"
+    },
+    {
+      "question": "What’s your go-to hobby when you're free?",
+      "type": "fun"
+    }
+  ]
+  
