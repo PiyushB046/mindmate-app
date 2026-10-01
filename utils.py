@@ -16,11 +16,3 @@ def load_this_or_that_questions():
             return json.load(f)
     except:
         return []
-
-# Load Cognitive Reframe game prompts
-def load_cognitive_reframe_questions():
-    try:
-        with open(os.path.join("data", "cognitive_reframe.json"), "r") as f:
-            return json.load(f)
-    except:
-        return []

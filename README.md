@@ -49,7 +49,7 @@ You need Python 3.10+ and [Ollama](https://ollama.com/download).
    streamlit run app.py
    ```
 
-The games work without Ollama, since they only use the saved classifier. The Chatbot tab and the Cognitive Reframe game need Ollama running at `http://localhost:11434`.
+Trivia and This or That work without Ollama, since they only use the saved classifier. The Chatbot tab and the Cognitive Reframe game need Ollama running at `http://localhost:11434`.
 
 ## Retraining the model
 
